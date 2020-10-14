@@ -1,0 +1,82 @@
+body{
+    font-family: "Verdana", Regular;
+    /* color:#fff; */
+    font-size: 13px;
+    /* background: #e7e7e7; */
+}
+/* .container-fluid {
+    padding:0px;
+    overflow: hidden;
+    margin:0;
+}
+.detailsMargin{
+    margin-top:30px;
+}
+.detailsInfo {
+    display: block;
+    width: 94%;
+    margin: 15px auto 0px  auto;
+    overflow: hidden;
+}
+
+.heading{
+    background: #0066a1;
+    padding: 15px 5px;
+    width: 100%;
+    float: left;
+}
+.heading h2{
+    font-size: 17px;
+    padding:0px;
+    margin:0px;
+}
+.reportSection{
+    padding: 20px;
+    background: #fff;
+    width: 100%;
+    float: left;
+    color: #0066a1;
+    text-align: center;
+}
+.foreCast{
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+}
+
+textarea:focus, input:focus, button:focus{
+    outline: none;
+}
+
+.fa-search{
+    color:#0066a1;
+}
+
+.fa-map-marker{
+    color:#0066a1;  
+}
+
+@media only screen and (max-width: 760px){
+     .detailsInfo {
+        margin: 30px auto 0px  auto;
+        width: 100%;
+    }
+    .foreCastListings div{
+        flex-basis: 200px;
+    }
+    .foreCastListings span{
+        width: 100%;
+        float: left;
+        margin-bottom: 10px;
+    }
+    .foreCastListings img{
+       width: 65%;
+    }
+    .reportSection {
+        padding: 20px 10px;
+    }
+    .foreCastListings h5{
+        float: left;
+    }    
+
+} */

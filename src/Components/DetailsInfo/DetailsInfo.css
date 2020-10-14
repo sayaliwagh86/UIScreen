@@ -1,0 +1,28 @@
+section{
+    margin:10px auto;
+}
+
+.foreCast h5{
+    margin-top:15px;
+    font-size:16px;
+}
+.foreCast span{
+    margin-top:15px;
+    font-size:23px;
+}
+.foreCastListings{
+    display: flex;    
+    width:100%;
+}
+.foreCastListings div{
+    flex-basis: 100%;
+}
+.foreCastListings h5{
+     font-size: 13px;
+    font-weight: bold;
+    padding-bottom: 15px;
+    margin: 0px;
+}
+.foreCastListings img{
+    margin-bottom: 20px;
+}

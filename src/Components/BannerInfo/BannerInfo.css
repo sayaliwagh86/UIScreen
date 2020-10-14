@@ -1,0 +1,63 @@
+.SearchBox{
+    position: relative;
+   float: left;
+   width: 100%;
+}
+.SearchBox button{
+   position: absolute;
+   right: 36px;
+   background: none;
+   border: none;
+   top: 23%;
+}
+.SearchBox .mapIcon{
+   right:24px;
+}
+.mapIcon{
+    right:50px;
+    width: 10px;
+}
+.tempImg{
+    margin-top:53px;
+    float:right;
+}
+.tempImg img{
+    max-width: 100%;
+}
+
+.bannerInfo{
+    background: url('../../images/bg-image-mobile.png') center bottom;
+    background-size: cover;
+    padding: 20px;
+    margin-top: 74px;
+}
+.bannerInfo input{
+    font-size: 15px;
+    color: #8c8c8c;
+    width: 100%;    
+    height: 50px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    background: #fff;
+    display: block;
+    padding: 10px 73px 10px 10px;
+}
+.bannerInfo h2{
+    font-size:23px;
+    padding-top:25px;
+    margin-bottom:0px;
+    width: 100%;
+    float:left;
+}
+.bannerInfo h3{
+    font-size:53px;
+    padding-top:40px;
+}
+.bannerInfo p{
+    font-size:14px;
+    padding-top:12px;
+}
+
+section{
+    margin:10px auto;
+}

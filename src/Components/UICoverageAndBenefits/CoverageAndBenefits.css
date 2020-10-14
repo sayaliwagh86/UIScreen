@@ -1,0 +1,44 @@
+.coverage-row-container {
+  background-color: #ededed;
+}
+
+/* .vl-coverage {
+  border-left: 1px solid black;
+  height: 40px;
+} */
+
+.border-column {
+  border-right: 1px solid black;
+}
+
+/* .button-container {
+    border-radius: unset;
+} */
+
+.button-text-container {
+  max-width: fit-content;
+}
+
+.coverage-vl {
+  /* border-left: 2px solid;
+  height: 119px; */
+  /* margin-right: -2px; */
+}
+
+.main-container {
+    /* border: 1px solid black; */
+    /* height: 300px; */
+}
+
+.second-container {
+    /* border: 1px solid black; */
+}
+
+.third-container {
+    /* border: 1px solid black; */
+    /* height: 100px; */
+}
+
+.jumbotron-container {
+  background-color: #f3f6f9;
+}

@@ -1,0 +1,28 @@
+ul {
+  list-style: none;
+}
+
+footer {
+  background-color: #ededed;
+}
+
+.list-color {
+  color: #2e439a;
+}
+
+.list-bold-color {
+  color: #0033a1;
+}
+
+.horizontal-line-container {
+  width: 60%;
+}
+
+.vlFooter {
+  border-left: 2px solid #eaeef2;
+  height: 40px;
+}
+
+/* .second-container {
+    border-right: 1px solid;
+} */

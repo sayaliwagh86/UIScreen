@@ -1,0 +1,17 @@
+.vl {
+  border-left: 2px solid #eaeef2;
+  height: 40px;
+}
+
+.show-hide {
+  display: none;
+}
+
+/* Change this height and width if the image is giving issues */
+.ui-header-image {
+  width: 121px;
+}
+
+#navbar-text-color .nav-link {
+  color: #0033a1;
+}
