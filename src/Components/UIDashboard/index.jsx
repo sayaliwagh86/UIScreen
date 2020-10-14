@@ -1,6 +1,6 @@
 import React from 'react'
-import DBCoverageAndBenefits from './DBCoverageAndBenefits'
-import DBCurrentClaimStatus from './DBCurrentClaimStatus'
+import DBCoverageAndBenefits from './DBCoverageAndBenefits/index'
+import DBCurrentClaimStatus from './DBCurrentClaimStatus/index'
 
 
 export default function UIDashboard() {
