@@ -4,6 +4,8 @@
     Thunk middleware where api is called with help of redux and react.
     Will display city name and temperature 
     Will display climatic image in  TemperatureImg
+
+    Change By Abhijit
 */
 
 import React, { useState, useEffect } from "react";
