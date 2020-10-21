@@ -36,8 +36,6 @@ import "./BannerInfo.css";
       const { temp, main, description, wind } = props;
 
       const { speed } = wind;
-
-      
       // Converting temperature in degree celcius
       const tempTocelisus = parseInt(temp) - 273.15;
 
