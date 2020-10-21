@@ -1,0 +1,13 @@
+.db-videos .list-unstyled .media{
+    padding:10px;
+}
+.db-videos .list-unstyled .media-body {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 20px;
+}
+.list-header-msg {
+    color: #1b26b0;
+    font-weight: bold;
+}

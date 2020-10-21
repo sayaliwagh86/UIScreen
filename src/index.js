@@ -19,7 +19,9 @@ ReactDOM.render(
   <Provider store={store}>
      {/* <div className="row"> */}
             {/* <div className="col-12"> */}
-      		  	<App />
+      		  	<div className="container-fluid">
+                <App />
+              </div>
      		 {/* </div> */}
       {/* </div> */}
   </Provider>,                                                                                                         
