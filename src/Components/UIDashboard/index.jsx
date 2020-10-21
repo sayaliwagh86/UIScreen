@@ -3,7 +3,6 @@ import DBFaq from './DBFaqs/DBFaq';
 import DBAccountHistory from './DBAccountHistory/index';
 import DBVideos from './DBVideos/index';
 import './UIDashboard.css'
-import React from 'react'
 import DBCoverageAndBenefits from './DBCoverageAndBenefits/index'
 import DBCurrentClaimStatus from './DBCurrentClaimStatus/index'
 
@@ -14,6 +13,7 @@ export default function UIDashboard() {
             <div className="row">
                     <DBFaq/>
                     <DBVideos/>
+
             <div className="row third-container">
               <div className="col-sm-6 col-md-6">
                  <DBCoverageAndBenefits/>
